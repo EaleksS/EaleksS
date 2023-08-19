@@ -24,9 +24,9 @@
 <h2 align="left">👨🏻‍💻 Обо мне:</h2>
 
 - :computer: Я Frontend-разработчик, в настоящее время изучаю Nextjs
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
+- :hourglass_flowing_sand: Изучение React Query и Nestjs
 - :rocket:  Всегда готов к сотрудничеству для проведения экспериментов
-<-- - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" -->
+
 
 <h2 align="left">🤝 Социальные сети:</h2>
 
