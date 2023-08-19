@@ -26,7 +26,7 @@
 - :computer: Я Frontend-разработчик, в настоящее время изучаю Nextjs
 - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
 - :rocket:  Всегда готов к сотрудничеству для проведения экспериментов
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+<-- - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" -->
 
 <h2 align="left">🤝 Социальные сети:</h2>
 
